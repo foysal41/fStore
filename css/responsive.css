@@ -1,0 +1,100 @@
+@media only screen and (max-width: 1199px) {
+	#hero .hero_slider_content {
+		left: 30px;
+		width: 260px;
+
+	}
+
+}
+
+@media only screen and (max-width: 991px) {
+	#hero .hero_slider_content h1 {
+		font-size: 20px;
+	}
+
+	#hero .hero_slider_content {
+		height: 120px;
+		left: 25px;
+		width: 195px;
+	}
+
+	#hero .hero_slider_content .collecitons a {
+		padding: 5px 10px;
+		margin-top: 10px;
+		width: 100%;
+		margin-left: 15%;
+	}
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+	#hero .hero_slider_content {
+		height: 115px;
+		left: 140px;
+		width: 195px;
+		top: 145px;
+	}
+
+	#hero .delivery_img {
+		display: none;
+	}
+
+	#hero .delivery_wrapp {
+		margin-left: 200px;
+	}
+
+	.delivery_wrapp {
+		width: 50%;
+		margin-left: 25%;
+	}
+
+	#our_all_products .couple_image {
+		display: none;
+	}
+
+	#our_all_products .accessories_image img {
+		height: 200px;
+		width: 100%;
+	}
+
+	/* Call us */
+	#callUs {
+		padding: 10px;
+	}
+
+	#callUs .call p {
+		letter-spacing: 2px;
+	}
+
+	#callUs .number {
+		letter-spacing: 1px;
+	}
+
+	#brand .brands_list img {
+		height: 100px;
+		width: 200px;
+	}
+
+	#brand .brands_list {
+		width: 50%;
+		margin-left: 25%;
+
+	}
+
+	footer .social_media ul li:hover {
+
+		box-shadow: none;
+
+	}
+
+}
+
+
+
+@media only screen and (max-width: 630px) {
+	#customer_review .customer_info p {
+		font-size: 14px;
+	}
+}
